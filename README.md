@@ -1,6 +1,8 @@
 # vinereg
 D-vine quantile regression Use vinereg With (In) R Software
 
+https://www.youtube.com/watch?v=Bkh0yN343R8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
